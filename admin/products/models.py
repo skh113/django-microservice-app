@@ -8,4 +8,4 @@ class Product(models.Model):
 
 
 class User(models.Model):
-    user_name = models.CharField(max_length=255)
+    user_name = models.CharField(max_length=255, null=True)

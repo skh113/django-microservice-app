@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "62dcf53de6ff7a9af9c2a677a1c490e758c25e07295293e28929e8a8b5bfae88"
+            "sha256": "6cb5140379f7663d579ccb4b5c42ea905500b989705da0473b9640010f653a7b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -104,6 +104,14 @@
             "index": "pypi",
             "version": "==2.2.2"
         },
+        "flask-cli": {
+            "hashes": [
+                "sha256:625b534f1bd4d05cbd2084b6b820e2d8cbfea8bc08dd3ee786f365bc0591f1d8",
+                "sha256:6604ab407c0a2f6cdb51e1f64bdb01b8b135d547a0a99189b9158353ded6eeb9"
+            ],
+            "index": "pypi",
+            "version": "==0.4.0"
+        },
         "flask-cors": {
             "hashes": [
                 "sha256:74efc975af1194fc7891ff5cd85b0f7478be4f7f59fe158102e91abb72bb4438",
@@ -114,11 +122,11 @@
         },
         "flask-migrate": {
             "hashes": [
-                "sha256:57d6060839e3a7f150eaab6fe4e726d9e3e7cffe2150fb223d73f92421c6d1d9",
-                "sha256:a6498706241aba6be7a251078de9cf166d74307bca41a4ca3e403c9d39e2f897"
+                "sha256:4dc4a5cce8cbbb06b8dc963fd86cf8136bd7d875aabe2d840302ea739b243732",
+                "sha256:a69d508c2e09d289f6e55a417b3b8c7bfe70e640f53d2d9deb0d056a384f37ee"
             ],
             "index": "pypi",
-            "version": "==3.1.0"
+            "version": "==2.5.3"
         },
         "flask-script": {
             "hashes": [
@@ -129,11 +137,11 @@
         },
         "flask-sqlalchemy": {
             "hashes": [
-                "sha256:2bda44b43e7cacb15d4e05ff3cc1f8bc97936cc464623424102bfc2c35e95912",
-                "sha256:f12c3d4cc5cc7fdcc148b9527ea05671718c3ea45d50c7e732cceb33f574b390"
+                "sha256:05b31d2034dd3f2a685cbbae4cfc4ed906b2a733cff7964ada450fd5e462b84e",
+                "sha256:bfc7150eaf809b1c283879302f04c42791136060c6eeb12c0c6674fb1291fae5"
             ],
             "index": "pypi",
-            "version": "==2.5.1"
+            "version": "==2.4.4"
         },
         "greenlet": {
             "hashes": [
